@@ -53,3 +53,6 @@
 11. **Customize Middleware**: Update the `middleware.ts` file to include `publicRoutes` and `ignoredRoutes` as per your application's requirements.
 
 12. **Implement SignedIn and SignedOut Components**: Utilize `<SignedIn>` and `<SignedOut>` components from Clerk to manage content visibility based on the user's authentication status.
+
+#### Citation
+[Clerk Documentation - Quickstart for Next.js](https://clerk.com/docs/quickstarts/nextjs)

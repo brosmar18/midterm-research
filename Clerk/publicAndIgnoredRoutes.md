@@ -56,3 +56,7 @@ ignoredRoutes: [
 ## Summary 
 
 In a Next.js application using Clerk for authentication, `publicRoutes` and `ignoredRoutes` in the middleware.ts file play crucial roles. `publicRoutes` define paths accessible without authentication, while `ignoredRoutes` are paths that Clerk's middleware should entirely ignore. This setup allows for flexible and secure route management in web applications.
+
+
+#### Citations
+[Clerk Documentation - Auth Middleware Reference for Next.js](https://clerk.com/docs/references/nextjs/auth-middleware)
