@@ -22,3 +22,4 @@ Below are the links to detailed notes and resources for each topic. These links 
 - [What is Clerk?](./Clerk/clerk.md)
 - [Setting Up Clerk In Next.js](./Clerk/settingUpClerk.md)
 - [publicRoutes and ignoredRoutes](./Clerk/publicAndIgnoredRoutes.md)
+- [`<signedIn>` Component](./Clerk/signedIn.md)
