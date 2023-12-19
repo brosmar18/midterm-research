@@ -18,5 +18,5 @@ Below are the links to detailed notes and resources for each topic. These links 
 - [Layouts in Next.js](./Next/layouts.md)
 
 ### Clerk
-[What is Clerk?](./Clerk/clerk.md)
-[Setting Up Clerk In Next.js](./Clerk/settingUpClerk.md)
+- [What is Clerk?](./Clerk/clerk.md)
+- [Setting Up Clerk In Next.js](./Clerk/settingUpClerk.md)
