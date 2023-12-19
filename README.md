@@ -13,4 +13,6 @@ The repository is organized into sub-directories, each dedicated to a specific t
 
 Below are the links to detailed notes and resources for each topic. These links will be updated as new materials are added.
 
+### Next.js
 - [(folderName) in Next.js](./Next/(foldername).md)
+- [Layouts in Next.js](./Next/layouts.md)
