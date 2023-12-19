@@ -16,6 +16,7 @@ Below are the links to detailed notes and resources for each topic. These links 
 ### Next.js
 - [(folderName) in Next.js](./Next/(foldername).md)
 - [Layouts in Next.js](./Next/layouts.md)
+- [Catch all Segment: in Next.js](./Next//catchAllSegment.md)
 
 ### Clerk
 - [What is Clerk?](./Clerk/clerk.md)
