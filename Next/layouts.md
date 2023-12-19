@@ -54,3 +54,5 @@ export default function RootLayout({
 ## Summary
 Layouts are essentia for creating a consistent UI across multiple pages, enabling state preservation and interactivity during navigation. They can be nested and are defined in `Layout.jsx` files, with the root layout being a special case that encompasses the entire app structure. 
 
+#### Citations
+[Next.js Documentation - Pages and Layouts](https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts)

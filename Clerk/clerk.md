@@ -49,3 +49,6 @@ function Header() {
 
 ### Summary
 Clerk offers a streamlined way to add secure authentication and user management to web apps. By integrating Clerk, developers can easily control user access and manage user sessions. The use of components like `ClerkProvider` and `UserButton` simplifies the implementation, making it accessible even for those new to web development security concepts. 
+
+#### Citation
+[Clerk Documentation - Main Documentation Page](https://clerk.com/docs)
